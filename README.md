@@ -7,4 +7,4 @@ Build using Android Studio.
 
 # DEMO
 
-![demo_weather](https://user-images.githubusercontent.com/69251355/93645448-a659f700-fa21-11ea-8d5d-e6f133e02f62.gif)
+![demo_weather2](https://user-images.githubusercontent.com/69251355/93645650-1d8f8b00-fa22-11ea-83ea-39a24d741562.gif)
