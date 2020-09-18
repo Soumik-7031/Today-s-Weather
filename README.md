@@ -7,4 +7,4 @@ Build using Android Studio.
 
 # DEMO
 
-![] (demo_weather.gif)
+![] (https://github.com/Soumik-7031/Today-s-Weather/blob/master/demo_weather.gif)
